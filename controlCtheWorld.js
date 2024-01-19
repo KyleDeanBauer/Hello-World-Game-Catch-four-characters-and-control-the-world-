@@ -25,3 +25,5 @@ function mMo() {
 
 
 mMo();
+
+// A fun command line game if you are bored at work...
